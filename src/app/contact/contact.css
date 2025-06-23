@@ -1,0 +1,19 @@
+/* Footer-like Styling using h3 */
+.custom-footer {
+  background-color: #003366;
+  color: #d1e3ff;
+  padding: 30px 0;
+  text-align: center;
+  margin-top: 60px;
+  font-size: 1rem;
+  font-weight: normal;
+}
+
+.custom-footer a {
+  color: #a0c7ff;
+  text-decoration: none;
+}
+
+.custom-footer a:hover {
+  text-decoration: underline;
+}
